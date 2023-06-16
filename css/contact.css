@@ -1,3 +1,40 @@
 h1 {
   margin-left: 15px;
 }
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  border-radius: 4px;
+}
+
+.btn-primary {
+  width: 100%;
+  margin-top: 20px;
+  background-color: olive;
+  border-color: olive;
+}
+
+.btn-primary:hover {
+  width: 100%;
+  margin-top: 20px;
+  background-color: olivedrab;
+  border-color: olivedrab;
+  transition: 1s;
+}
