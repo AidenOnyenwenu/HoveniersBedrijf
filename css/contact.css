@@ -31,10 +31,24 @@ h1 {
   border-color: olive;
 }
 
+.btn-secondary {
+  width: 100%;
+  margin-top: 20px;
+  background-color: red;
+  border-color: red;
+}
+
 .btn-primary:hover {
   width: 100%;
   margin-top: 20px;
   background-color: olivedrab;
   border-color: olivedrab;
   transition: 1s;
+}
+
+.btn-secondary:hover {
+  width: 100%;
+  margin-top: 20px;
+  background-color: red;
+  border-color: red;
 }
