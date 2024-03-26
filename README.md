@@ -1,17 +1,25 @@
-# Hoveniers bedrijf van Tiel
+# Hoveniers bedrijf Van Tiel
 
-Een online platform ter showcase van een portfolio opdracht voor een bedrijf gespecialiseerd in tuinaanleg en -onderhoud.
+![GitHub Repo stars](https://img.shields.io/github/stars/AidenistooOP/RestaurantWebsite?color=green) ![GitHub](https://img.shields.io/github/license/AidenistooOP/RestaurantWebsite)
 
-## 📁 Inhoud
+## 📂 License
 
-- Galerij
-- Offerte functie
+This website is owned as a showcase product of https://predact.nl. <br>
+"Company Van Tiel" is not a real (existing) company.
 
-## 💻 Codeer Talen 
+## 📫 Contact
 
- <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
-<img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<p>&nbsp;</p> 
+You can reach out to me on a multitude of platforms!
 
-Geef een ⭐️ als je dit project interessant vind!
+
+
+
+
+
+
+
+<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="20px"> Email    : aidenonyenwenu@gmail.com OR ps241150@summacollege.nl <br>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20px"> Discord  : [!  Aiden#2007](https://discord.gg/nBfTcMprrC) <br>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="20px"> LinkedIn : [Aiden Onyenwenu](https://www.linkedin.com/in/aiden-onyenwenu/) <br>
+<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="20px"> Instagram: [040aiden](https://instagram.com/040aiden/) <br> <br>
+
